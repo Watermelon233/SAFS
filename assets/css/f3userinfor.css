@@ -1,0 +1,149 @@
+.f3imguser{
+    margin-left: 8%;
+    margin-top:5%;
+
+}
+
+.f3navtext{
+    color: white;
+    font-family: Microsoft YaHei, '宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;
+    font-weight: normal;
+    font-size:15px;
+    margin-top:25%;
+    margin-left:10%;
+    padding: 0px;
+}
+
+.f3nav {
+    color: white;
+    padding-left:35%;
+    padding-right: 25%;
+    padding-top: 10%;
+    padding-bottom: 5%
+}
+
+
+.f3nav:active{
+    color:red;
+    padding-left:35%;
+    padding-right:25%;
+    padding-top: 10%;
+    padding-bottom: 5%
+}
+
+.f3nav:hover{
+    background-color: rgba( 18, 18, 18, 0.86)
+}
+
+.f3nav:visited{
+    background-color: rgba(36, 36, 36, 0.86);
+}
+.f3txt{
+    font-family: Microsoft YaHei, '宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+.f3userhead{
+    font-family: Microsoft YaHei, '宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 5%;
+    margin-left:10%;
+
+}
+
+.f3frame{
+    float: left;
+    padding:0;
+    width:35%;
+    height:40%;;
+    margin-left: 0px;
+    margin-top: 2%;
+    position: relative;
+    top: 7%;
+
+}
+.f3frame2{
+    float: right;
+    padding:0;
+    width:35%;
+    height:40%;
+    margin-right: 5%;
+    margin-top: 2%;
+
+}
+
+.f3frame3 {
+    float: left;
+    padding: 0;
+    width: 75%;
+    height: 50%;
+    margin-right: 5%;
+
+}
+
+.f3usertext{
+    font-family: Microsoft YaHei, '宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 2%;
+    margin-left:10%;
+
+}
+
+.f3input{
+    border: 0px;
+}
+
+.f3a:link{
+    text-decoration: none;
+ color: white;
+
+}
+
+.f3a:hover {
+    text-decoration: none;
+color: white;
+}
+
+.f3a:active{
+    text-decoration: none;
+    color: white;
+}
+.f3a:visited{
+    text-decoration: none;
+    color: white;
+}
+
+.f3selectframe{
+
+    float: left;
+
+    padding:0;
+    width:15%;
+    height:100%;;
+    margin-left: 0px;
+    background-color: rgba( 8, 8, 8, 0.86)
+}
+
+.f3frameadduser{
+    font-family: Microsoft YaHei, '宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    float: left;
+    padding: 0;
+    width: 75%;
+    height: 20%;
+    margin-right: 5%;
+
+}
+
+.f3addusertext{
+    font-family: Microsoft YaHei, '宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 2%;
+    margin-left:7%;
+
+}
